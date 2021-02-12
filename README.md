@@ -21,6 +21,6 @@ This repository contains R scripts to tidy and perform initial basic analysis of
 
 - **Brief_IAT_Analyse.R**
  
-      - _This script is commented in detail to explain its use, input & outputs._ 
-      - _But in brief, it analyses the output from the Brief-IAT task on Gorilla according to Nosek BA et al. (2014) Understanding and Using the Brief Implicit Association Test: Recommended Scoring Procedures. PLoS ONE 9(12): e110938. https://doi.org/10.1371/journal.pone.0110938._
-      - _It outputs block order, total trials, total trials trimmed (for RT extremes), whether to include the data based on QA, D, Pooled mean, Pooled STD, Block 1 Mean & STD, Block 2 Mean & STD, Block 3 Mean & STD, Block 4 Mean & STD, total errors, total errors trimmed (for RT extremes)._  
+     - _This script is commented in detail to explain its use, input & outputs._ 
+     - _But in brief, it analyses the output from the Brief-IAT task on Gorilla according to Nosek BA et al. (2014) Understanding and Using the Brief Implicit Association Test: Recommended Scoring Procedures. PLoS ONE 9(12): e110938. https://doi.org/10.1371/journal.pone.0110938._
+     - _It outputs block order, total trials, total trials trimmed (for RT extremes), whether to include the data based on QA, D, Pooled mean, Pooled STD, Block 1 Mean & STD, Block 2 Mean & STD, Block 3 Mean & STD, Block 4 Mean & STD, total errors, total errors trimmed (for RT extremes)._  
